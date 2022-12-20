@@ -3,7 +3,7 @@ package server
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/itsjamie/gin-cors"
+	cors "github.com/itsjamie/gin-cors"
 )
 
 type Server struct {
